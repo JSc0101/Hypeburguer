@@ -2,6 +2,12 @@
 
 ***hypeburguer es una terminal de mesero que cuenta con las siguientes ventajas:***
 
+## Indice
+
+- ventajas
+- use
+- Instalacion
+
 ## ventajas
 
 - Permite tomar los pedidos de los clientes desde una tableta o un ordenador - portátil y enviarlos directamente a la cocina o al bar.
