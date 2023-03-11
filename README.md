@@ -1,8 +1,6 @@
-# HYPEBURGUER
-
 [![HYPEBURGER.png](https://i.postimg.cc/PJgS1qVZ/HYPEBURGER.png)](https://postimg.cc/MfY0SzSK)
 
-***hypeburguer es una terminal de mesero que cuenta con las siguientes ventajas: ***
+***hypeburguer es una terminal de mesero que cuenta con las siguientes ventajas:***
 
 ## ventajas
 
